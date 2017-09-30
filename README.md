@@ -2,6 +2,10 @@
 
 This is the project I worked on summer 2017. I wrote the back-end/front-end in clojure/clojurescript. It has been modified to not require a database, but one could be easily hooked up. All of the data is generated dummy data. The idea behind this site was to make an interal facing tool that hosts our analytics team's reports, displays them, generates insights from the data, and allows you to filter and download the data.
 
+## Please Note
+
+Because some information has been changed to 1) Protect confidential information, 2) Keep the company this project was built for anonymous, and 3) Make this as easy to run as possible (for example, there is no database) there are a few issues. One such issue is you can't change the participant ID. Please contact me for more information on this project.
+
 
 ## Prerequisites
 
