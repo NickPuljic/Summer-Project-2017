@@ -1,0 +1,43 @@
+// html, body {
+//     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+//     height: 100%;
+//     padding-top: 40px;
+// }
+.authpage {
+    background: url('../img/nuenen.jpg');
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+}
+
+.navbar-nav {
+    @media (min-width: 768px) {
+        float: right;
+        margin-top: 7.5px;
+    }
+}
+
+.list-group-item {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+pre {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    background-color: white;
+    border: none;
+}
+
+.fixedDataTableCellGroupLayout_cellGroup {
+  font-size: small;
+}
+
+.public_fixedDataTable_header, .public_fixedDataTable_header .public_fixedDataTableCell_main {
+  font-weight: 500;
+  background-image: none;
+}
