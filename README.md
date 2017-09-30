@@ -9,7 +9,7 @@ Because some information has been changed to 1) Protect confidential information
 
 ## Prerequisites
 
-You will need [Leiningen][1] 2.0 or above installed and [sassc][2].
+You will need [Leiningen][1] 2.0 or above and [sassc][2] installed.
 
 [1]: https://github.com/technomancy/leiningen
 [2]: https://github.com/sass/sassc
