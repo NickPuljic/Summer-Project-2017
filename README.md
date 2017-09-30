@@ -9,10 +9,10 @@ Because some information has been changed to 1) Protect confidential information
 
 ## Prerequisites
 
-You will need [Leiningen][1] 2.0 or above installed. You will also need sassc. The easiest way to install it is "brew install sassc".
+You will need [Leiningen][1] 2.0 or above installed and [sassc][2].
 
 [1]: https://github.com/technomancy/leiningen
-
+[2]: https://github.com/sass/sassc
 ## Running
 
 To start a web server for the application, run:
