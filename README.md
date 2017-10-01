@@ -4,7 +4,7 @@ This was my 2017 summer internship project. I wrote the back-end/front-end in cl
 
 ## Please Note
 
-Because some information has been changed to 1) Protect confidential information, 2) Keep the company this project was built for anonymous, and 3) Make this as easy to run as possible (for example, there is no database) there are a few issues. Two known issues are you can't change the participant ID and you can't download the data. Please contact me for more information on this project.
+Because some information has been changed to 1) Protect confidential information, 2) Keep the company this project was built for anonymous, and 3) Make this as easy to run as possible (for example, there is no database) there are a few issues. Three known issues are you can't change the participant ID, you can't download the data, and you can't change your password. Please contact me for more information on this project.
 
 
 ## Prerequisites

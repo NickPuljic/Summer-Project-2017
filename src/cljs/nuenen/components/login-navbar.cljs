@@ -93,7 +93,7 @@
                                  :body [:span "Your email and password did not match our records. Please bother Ezra Lee to have your account added if it is not."]])
                               [button
                                :label "Login"
-                               :on-click (if (and (= @email-val "nap2152@columbia.edu")
+                               :on-click #(if (and (= @email-val "nap2152@columbia.edu")
                                                   (= @password-val "supersecret"))
                                            (nuenen.request-handlers/authentication-handler "Authenticated"))
 
